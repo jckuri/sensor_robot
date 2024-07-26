@@ -4,7 +4,7 @@
 
 https://wokwi.com/projects/404005590276695041
 
-## Screen shots
+## Screenshots
 
 Start state
 
